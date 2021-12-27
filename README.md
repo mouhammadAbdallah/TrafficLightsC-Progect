@@ -6,7 +6,7 @@ My project has organized the traffic by making the cars stop on the red light so
 
 The cars change their behavior when an ambulance comes
 
-It was two parts:
+It was two parts:  
 manually when the user changes the traffic lights, and automatically when everything is autonomous based on real life statistics.
 
 the project URL contains the codes and  this is a video description:
